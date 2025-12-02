@@ -7,12 +7,7 @@
 
 <p align="center"><i>"Stay hungry, stay foolish."</i></p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/PowerSixxx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=550&lines=CS+%26+Engineering+@+The+Ohio+State+University;Software+%26+Web+Development+Enthusiast;Java+%7C+MATLAB+%7C+HTML+%7C+Python;Always+learning+something+new+🚀">
-  </a>
-</p>
+
 
 <!-- Links -->
 <p align="center">

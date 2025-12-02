@@ -104,8 +104,8 @@ These repositories contain my full workspaces for:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PowerSixxx&show_icons=true&theme=radical&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSixxx&layout=compact&theme=radical" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PowerSixxx&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PowerSixxx&layout=compact&theme=radical" />
 </p>
 
 ---

@@ -96,14 +96,6 @@ These repositories contain my full workspaces for:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-octo-stats.vercel.app/api?username=PowerSixxx&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact
 
 📧 **Email:** liu.11884@buckeyemail.osu.edu  

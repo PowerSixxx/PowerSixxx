@@ -1,6 +1,20 @@
-<!-- Header Section -->
+<!-- Avatar + Title -->
+<p align="center">
+  <img src="https://github.com/PowerSixxx.png" width="160" style="border-radius:50%; border: 3px solid #4e8cff;" />
+</p>
+
 <h1 align="center">Hi there, I'm Baowen Liu 👋</h1>
 
+<p align="center"><i>"Stay hungry, stay foolish."</i></p>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/PowerSixxx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=550&lines=CS+%26+Engineering+@+The+Ohio+State+University;Software+%26+Web+Development+Enthusiast;Java+%7C+MATLAB+%7C+HTML+%7C+Python;Always+learning+something+new+🚀">
+  </a>
+</p>
+
+<!-- Links -->
 <p align="center">
   <a href="https://www.baowenliu.com"><img src="https://img.shields.io/badge/🌐 Personal Website-baowenliu.com-blue?style=for-the-badge"></a>
   <a href="mailto:liu.11884@buckeyemail.osu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge"></a>
@@ -17,41 +31,59 @@
 
 I'm an undergraduate **Computer Science & Engineering** student at **The Ohio State University**, passionate about software development, system design, and intelligent technology.
 
-I enjoy building things — from Java component libraries to interactive websites — and exploring how software can solve real-world problems.
+I like building things — from Java component libraries to interactive websites — and exploring how software can solve real-world problems.
 
-- 🔧 Technical Intern @ **Nanoshape AI**  
+- 🔧 Technical Intern @ **Nanoshape AI** (modular AI & simulation framework)  
 - 💻 Former Software Engineer Intern @ **SPIC Smart Energy**, Beijing  
 - 🎓 OSU Dean’s List (2 semesters)  
 - 🚗 Member of **Buckeye AutoDrive (Safety Team)**  
 - 🎧 OSU Audio Engineering Club  
-- 🌱 Learning: algorithms, React, AI tools  
+
+---
+
+## 🗺 Current Learning & Roadmap
+
+- 📚 **Academics:** OSU CSE core courses, algorithms & data structures  
+- 💻 **Web:** React, modern frontend workflow, deployment  
+- 🧠 **CS Fundamentals:** problem solving, LeetCode-style practice, complexity  
+- 🤖 **AI Tools:** using AI to assist coding, learning, and project planning  
+- 🧪 **Software Engineering:** clean code, testing, version control with Git/GitHub  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 OSU CSE Coursework — Components, Recursion, Data Structures
+
 📘 **OSU Components API:**  
 https://cse22x1.engineering.osu.edu/common/doc/
 
-📁 Repositories  
+These repositories contain my full workspaces for:
+
+- **CSE 2221** – Software Components  
+- **CSE 2231** – Components, Recursion, Testing, Data Structures  
+
+📁 Repositories:  
 - [osu-cse-2221](https://github.com/PowerSixxx/osu-cse-2221)  
 - [osu-cse-2231](https://github.com/PowerSixxx/osu-cse-2231)
 
 ---
 
 ### 🔹 Game Gomoku (Five-in-a-Row) — MATLAB  
-- 3 game modes (3-in-a-row, 5-in-a-row, AI)  
-- Mathematical modeling + UI design  
-- Created promotional gameplay video  
-- Team engineering communication practice  
+
+- Implemented 3 modes: 3-in-a-row, 5-in-a-row, AI mode  
+- Built mathematical modeling and logic for gameplay  
+- Designed UI and produced a promotional video  
+- Collaborated in a four-person engineering team  
 
 ---
 
 ### 🔹 AI Flash Card Web App — HTML/CSS  
-- Navigation bar, scheduling table, authentication layout  
-- Clean UI/UX & responsive design  
-- Expanding features: improved UI + AI integration  
+
+- Interactive website for AI-powered learning  
+- Implemented navigation bar, schedule table, and login layout  
+- Practicing responsive design and front-end structure  
+- In progress: more interactivity & integration with backend / AI  
 
 ---
 
@@ -72,8 +104,8 @@ https://cse22x1.engineering.osu.edu/common/doc/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PowerSixxx&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSixxx&layout=compact&theme=radical"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PowerSixxx&show_icons=true&theme=radical&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSixxx&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -82,8 +114,8 @@ https://cse22x1.engineering.osu.edu/common/doc/
 
 📧 **Email:** liu.11884@buckeyemail.osu.edu  
 🌐 **Website:** https://www.baowenliu.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/baowen-liu-959104340/
+🔗 **LinkedIn:** https://www.linkedin.com/in/baowen-liu-959104340/  
 
 ---
 
-<p align="center">⭐ Thanks for visiting my GitHub! Feel free to explore my projects. ⭐</p>
+<p align="center">⭐ Thanks for visiting my GitHub — stay hungry, stay foolish. ⭐</p>

@@ -66,10 +66,14 @@ These repositories contain my full workspaces for:
 
 ### 🔹 Game Gomoku (Five-in-a-Row) — MATLAB  
 
-- Implemented 3 modes: 3-in-a-row, 5-in-a-row, AI mode  
-- Built mathematical modeling and logic for gameplay  
-- Designed UI and produced a promotional video  
-- Collaborated in a four-person engineering team  
+- Implemented 3 modes: **3-in-a-row**, **5-in-a-row**, and **AI opponent mode**  
+- Designed and rendered the board using `simpleGameEngine.m`  
+- Built complete game logic including win detection, animations, and AI heuristics  
+- Produced UI assets & gameplay flow  
+- Collaborative engineering project with a 4-person team  
+
+🔗 **Repository:**  
+https://github.com/PowerSixxx/MATLAB-Gomoku 
 
 ---
 

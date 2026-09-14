@@ -90,6 +90,5 @@ I am an undergraduate **Computer Science & Engineering** student with a **Minor 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PowerSixxx&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSixxx&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=PowerSixxx&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

@@ -87,7 +87,7 @@ I am an undergraduate **Computer Science & Engineering** student with a **Minor 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PowerSixxx&theme=radical&hide_border=true" alt="GitHub Streak" />

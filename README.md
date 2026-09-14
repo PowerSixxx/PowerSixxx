@@ -12,7 +12,7 @@
 <!-- Links -->
 <p align="center">
   <a href="https://www.baowenliu.com"><img src="https://img.shields.io/badge/🌐%20Personal%20Website-baowenliu.com-blue?style=for-the-badge"></a>
-  <a href="mailto:liu.11884@buckeyemail.osu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge"></a>
+  <a href="mailto:liu.11884@osu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/baowen-liu-959104340/"><img src="https://img.shields.io/badge/LinkedIn-Baowen%20Liu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
